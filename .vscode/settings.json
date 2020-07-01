@@ -1,0 +1,12 @@
+{
+    "python.pythonPath": "/home/ttettheu/.local/share/virtualenvs/ecommerce--9yxj_Tp/bin/python",
+    "python.linting.enabled": true,
+
+    "python.linting.mypyEnabled": false,
+    "python.linting.flake8Enabled": false,
+    "python.testing.unittestEnabled": false,
+
+    "[python]": {
+        "editor.formatOnSave": true
+    }
+}
